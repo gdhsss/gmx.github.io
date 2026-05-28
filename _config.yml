@@ -7,13 +7,13 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "MaoXu Gao / Site Title"
+locale                   : "zh-CN"
+title                    : "高茂煦 | Robotics AI"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://gdhsss.github.io/gmx.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : &name "高茂煦"
+description              : &description "机器人算法工程师，关注 Diffusion Policy、PI0.5/VLA、SNN、Franka 真机部署、RKNN 边缘推理与多模态情感计算。"
+url                      : https://gdhsss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/gmx.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "gdhsss/gmx.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,33 +22,33 @@ repository               : "gdhsss/gmx.github.io"
 author:
   # Biographic information
   avatar           : "gmx.png"
-  name             : "MaoXu Gao"
+  name             : "高茂煦"
   pronouns         : # example: "she/her"  
-  bio              : "want to be a Ph.d"
-  location         : "China"
-  employer         : ""
+  bio              : "Robotics AI engineer working on embodied intelligence, policy learning, and edge deployment."
+  location         : "Shenzhen / Macau"
+  employer         : "阿圆科技"
   uri              : # URL
-  email            : "gaomaoxu528@163.com" 
+  email            : "maogao623@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/abs/2409.11195"
+  googlescholar    :
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "gdhsss"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
